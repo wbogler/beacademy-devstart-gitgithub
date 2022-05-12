@@ -40,9 +40,7 @@ Apresentar os principais comandos do git
 
 **git merge ->** Mescla todas as alterações do repositório virtual no repositório local;
 
-
-
-
+**git rm --cached ->** Remove o commit;
 
 ## Principais Links e Referências
 
