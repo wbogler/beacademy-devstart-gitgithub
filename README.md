@@ -56,5 +56,6 @@ Apresentar os principais comandos do git
 ## Autor
 
 - [Willian Bogler](https://github.com/wbogler)
+- [Linkedin](https://www.linkedin.com/in/willian-bogler-b82876185/)
 
 
